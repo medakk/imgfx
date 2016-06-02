@@ -7,6 +7,6 @@ Applies a triangular effect to images.
 ###### Usage: 
     tri_fx.py img.jpeg
 
-![Sample input image for trifx](https://raw.githubusercontent.com/medakk/imgfx/master/readme_imgs/trifx_in.jpeg)
+<img src="https://raw.githubusercontent.com/medakk/imgfx/master/readme_imgs/trifx_in.jpeg" alt="Sample input image for trifx" width=65% height=65%/>
 
-![Sample output image for trifx](https://raw.githubusercontent.com/medakk/imgfx/master/readme_imgs/trifx_out.jpeg)
+<img src="https://raw.githubusercontent.com/medakk/imgfx/master/readme_imgs/trifx_out.jpeg" alt="Sample output image for trifx" width=65% height=65%/>
